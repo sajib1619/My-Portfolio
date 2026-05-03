@@ -398,7 +398,7 @@ img {
   font-size: var(--large-font-size);
 }
 
-.services-card:hover :is(.services-no, .services-titile, .services-description) {
+.services-card:hover :is(.services-no, .services-title, .services-description) {
   color: var(--white-color);
 }
 
